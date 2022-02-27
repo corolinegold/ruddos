@@ -3,7 +3,7 @@ import os
 
 
 NOF_THREATS = 1
-NOF_SECONDS = 3600 # 1 hour
+NOF_SECONDS = 28800 # 1 hour
 TARGET_FILE = "targets_transport"
 
 class myThread (threading.Thread):
